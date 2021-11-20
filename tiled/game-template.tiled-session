@@ -1,0 +1,149 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "earth_1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 3.0886,
+            "scaleInEditor": 1
+        },
+        "earth_1.tmx": {
+            "scale": 2.445,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 15.746421267893652,
+                "y": 119.01840490797548
+            }
+        },
+        "earth_1.tmx#g": {
+            "scaleInDock": 0.8362
+        },
+        "itm.tmx": {
+            "scale": 0.8,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 403.125,
+                "y": 1472.5
+            }
+        },
+        "itm.tmx#its": {
+            "scaleInDock": 1
+        },
+        "mars.tmx": {
+            "scale": 0.17,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2614.705882352941,
+                "y": 1211.764705882353
+            }
+        },
+        "space.tmx": {
+            "scale": 0.31,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 233.8709677419356,
+                "y": 532.2580645161291
+            }
+        },
+        "space2.tmx": {
+            "scale": 1.2457,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 158.54539616280002,
+                "y": 221.16079312836155
+            }
+        },
+        "space2.tmx#ass": {
+            "scaleInDock": 1.7245,
+            "scaleInEditor": 1
+        },
+        "tilemap.tmx": {
+            "scale": 0.71,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 251.4084507042254,
+                "y": 371.1267605633803
+            }
+        },
+        "tileset.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.2995,
+            "scaleInEditor": 1.45
+        },
+        "tm.tmx": {
+            "scale": 0.7701,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 136.995195429165,
+                "y": 393.45539540319436
+            }
+        },
+        "tm.tmx#ts": {
+            "scaleInDock": 1.7905,
+            "scaleInEditor": 1
+        },
+        "tm.tmx#ts2": {
+            "scaleInDock": 1
+        },
+        "ts.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 3.0062,
+            "scaleInEditor": 3.82
+        },
+        "ts3.tmx": {
+            "scale": 0.4823,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 106.78001244038978,
+                "y": -446.8173336097864
+            }
+        }
+    },
+    "last.exportedFilePath": "/Users/n1ce/Projects/game-template/src/game/assets/tiles",
+    "last.imagePath": "/Users/n1ce/Projects/game-template/tiled",
+    "map.fixedSize": true,
+    "map.height": 22,
+    "map.lastUsedExportFilter": "JSON map files (*.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.orientation": null,
+    "map.renderOrder": null,
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 25,
+    "openFiles": [
+        "tm.tmx",
+        "space2.tmx",
+        "earth_1.tmx"
+    ],
+    "project": "game-template.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "tm.tmx",
+        "space2.tmx",
+        "earth_1.tmx",
+        "space.tmx",
+        "mars.tmx",
+        "itm.tmx",
+        "ts.tsx",
+        "ts3.tmx",
+        "tileset.tsx",
+        "tilemap.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 5,
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    },
+    "tileset.type": 0,
+    "tileset.useTransparentColor": true
+}

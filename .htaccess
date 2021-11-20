@@ -1,0 +1,9 @@
+<IfModule mod_headers.c>
+	Header set X-XSS-Protection "1; mode=block"
+	Header always append X-Frame-Options DENY
+	Header always set Referrer-Policy "same-origin"
+	Header set Strict-Transport-Security "max-age=10886400; includeSubDomains; preload"
+	Header set X-Content-Type-Options nosniff
+	Header set Feature-Policy "geolocation 'self'; accelerometer 'self'; autoplay 'self'; fullscreen 'self'"
+	Header add Content-Security-Policy "default-src 'self'; font-src 'self' data: https://fonts.gstatic.com; style-src 'self' 'unsafe-inline' data: https://fonts.googleapis.com; img-src 'self' blob: data: https://n1ce.me; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.google.com https://www.gstatic.com; connect-src 'self' https://n1ce.me blob:; media-src 'self'; frame-ancestors 'self';  worker-src 'self'; frame-src https://www.google.com"
+</IfModule>
